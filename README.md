@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development.NET
 ------------------------
 
-I am a student specializing in Software Development with .NET, and my ambitions are to learn many new things.
+I am a student specializing in Software Development.NET, and my ambitions are to learn many new things.
 
 * 🌍  I'm based in Västerås, Sweden
 * ✉️  You can contact me at [archie.alexander@live.se](mailto:archie.alexander@live.se)
